@@ -1,4 +1,7 @@
-# pa2
+# Arkadiusz Wawrzyniak
+
+## Main command:
+$ npm run dev
 
 ## Build Setup
 
